@@ -47,3 +47,8 @@ See full output using:
 ```bash
 az containerapp show -n fastapi-sammy -g sammy-api
 ```
+
+
+## Credits 
+
+This repo is based off of [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api)
